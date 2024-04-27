@@ -9,6 +9,6 @@ entries:
     name: mediawiki
     type: application
     urls:
-    - https://github.com/pranav03singh/mediawikiapp.git/mediawiki-0.1.0.tgz
+    - https://github.com/pranav03singh/mediawikiapp/mediawiki-0.1.0.tgz
     version: 0.1.0
 generated: "2024-04-27T15:24:13.3605846+05:30"
