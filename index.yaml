@@ -1,0 +1,25 @@
+apiVersion: v1
+entries:
+  mediawiki:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-28T12:22:05.4817532+05:30"
+    description: A Helm chart for Mediawiki Application
+    digest: 575f74611ed20725a6e0979834b4f46fed109f0b3882a07aa202d97256b5ebd9
+    name: mediawiki
+    type: application
+    urls:
+    - https://github.com/pranav03singh/mediawikiapp/mediawikiapp/mediawiki-0.1.0.tgz
+    version: 0.1.0
+  test:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-04-28T12:22:05.4811719+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 68c6feef3498c99ecd2d1e484add8227c2cb26f7e70539c598cd21b5f3425c67
+    name: test
+    type: application
+    urls:
+    - https://github.com/pranav03singh/mediawikiapp/test-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-04-28T12:22:05.479962+05:30"
