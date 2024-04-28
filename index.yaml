@@ -3,23 +3,23 @@ entries:
   mediawiki:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-28T12:42:03.0464009+05:30"
+    created: "2024-04-28T12:46:52.8878422+05:30"
     description: A Helm chart for Mediawiki Application
     digest: 575f74611ed20725a6e0979834b4f46fed109f0b3882a07aa202d97256b5ebd9
     name: mediawiki
     type: application
     urls:
-    - https://github.com/pranav03singh/mediawikiapp/mediawiki/mediawiki-0.1.0.tgz
+    - https://pranav03singh.github.io/mediawikiapp/mediawiki/mediawiki-0.1.0.tgz
     version: 0.1.0
   mediawiki-db:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-04-28T12:42:03.0469634+05:30"
+    created: "2024-04-28T12:46:52.8889747+05:30"
     description: A Helm chart for Mediawiki DB based on mariaDB
     digest: 130bf909684ec73eb3d94b478de3ab3e2203f08ae7e0156875c60c99502588dd
     name: mediawiki-db
     type: application
     urls:
-    - https://github.com/pranav03singh/mediawikiapp/mediawiki/mediawiki-db-0.1.0.tgz
+    - https://pranav03singh.github.io/mediawikiapp/mediawiki/mediawiki-db-0.1.0.tgz
     version: 0.1.0
-generated: "2024-04-28T12:42:03.0452504+05:30"
+generated: "2024-04-28T12:46:52.8872566+05:30"
